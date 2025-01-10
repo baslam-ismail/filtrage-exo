@@ -31,5 +31,5 @@ Ce projet est un exercice permettant de filtrer des données (de tout type : uti
 ### 1. Cloner le Projet
 
 ```bash
-git clone https://github.com/baslam-ismail/Filtrage-TS.git
+git clone https://github.com/baslam-ismail/filtrage-exo.git
 cd Filtrage-TS
